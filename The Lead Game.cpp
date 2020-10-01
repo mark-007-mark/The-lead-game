@@ -22,3 +22,4 @@ int main()
     }
     cout<<W<<" "<<maximum<<endl;
     }
+//all done
